@@ -1,4 +1,4 @@
-Write a two-page technical report on using speech and language processing techniques to solve a real-world problem.
+Write a two-page technical report on using speech and language processing techniques to solve a real-world problem. The report is a proposal and you are NOT expected to implement it. 
 
 The technical report should include:
 - the problem you are trying to solve or the application you want to work on (e.g. speech disorder)
@@ -6,3 +6,11 @@ The technical report should include:
 - related applications
 - your proposed solution to solve the problem (which technology to use: e.g. voice conversion, question answering, machine translation)
 - your anticipated results (what kinds of painpoint the solution can fix)
+
+here is the template that you can use: https://www.overleaf.com/read/fvhykwvngdwz Please remove the unnecessary sections.
+
+What I am looking for from the report:
+- Your understanding of speech and language processing (SLP) knowledge what you have learnt in the class
+- Break down a real-world application into modules and formulate them using SLP knowledge
+- Regarding proposed solution, I recommend you read 1-2 research papers or a chapter of the SLP book (https://web.stanford.edu/~jurafsky/slp3/), it will help you to organize what you have learnt
+- Your solution is not expected to be perfect, but the solution should use SLP knowledge and the solution can theoritically fix the painpoint of the application.
